@@ -1,1 +1,0 @@
-print("corex FIX2")
